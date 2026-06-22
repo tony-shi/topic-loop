@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime state and fetched material
+data/
+cache/
+artifacts/
+tmp/
