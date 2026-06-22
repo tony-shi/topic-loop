@@ -11,7 +11,7 @@ reliably answer:
 4. Do I actually understand the domain well enough to explain, choose, debug,
    or build within it?
 
-Knowledge Forge treats these as one continuous system.
+Topic Loop treats these as one continuous system.
 
 ## Three loops
 

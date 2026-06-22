@@ -1,7 +1,7 @@
-# Knowledge Forge
+# Topic Loop
 
-Knowledge Forge is an experimental system for continuously building and
-testing understanding of a user-directed domain.
+Topic Loop is an experimental system that continuously follows a topic, keeps
+your knowledge current, and tests what you understand.
 
 It is not only a feed reader, deep-search agent, RAG system, or generated wiki.
 Its intended loop is:
