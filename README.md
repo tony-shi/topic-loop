@@ -36,6 +36,8 @@ Idea and architecture validation. No production-ready implementation exists
 yet.
 
 See [docs/vision.md](docs/vision.md) for the initial product boundary.
+See [docs/manual-first.md](docs/manual-first.md) for how a domain can be
+bootstrapped before Topic Loop automation exists.
 
 ## License
 
